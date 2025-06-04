@@ -8,6 +8,7 @@ Ao longo de várias aulas o professor ensinou conceitos importantes para se trab
 - Com base no salário atual e na porcentagem da carteira a planilha calcular quanto o investidor vai ter de rendimento em um período específico
 - Em Cenários a planilha coloca algumas faixas de tempo com o respectivo patrimônio acumulado e os dividendos do período
 - Como o foco é investimentos em fundos imobiliários, a planilha traz a sugestão de alocação em diversos tipos de fundos, considerando os três perfis principais de investimento
+- Por fim, a planilha exibe um gráfico em pizza, com as porcentagens de alocação em cada tipo de fundo
 
 ## 🛠️ Tecnologias Utilizadas
 
